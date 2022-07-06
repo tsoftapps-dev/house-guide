@@ -2,15 +2,13 @@
 
 ## Uygulama Bilgileri
 
-
-
 - T-Soft Apps Url : [https://tsoftapps.com/gtag](https://tsoftapps.com/gtag)
 - Uygulama Website : [https://google.com](https://google.com)
 - Minimum versiyon : -
 
 ## Döküman Linkleri
 
-Geliştirici Dökümanı 
+Geliştirici Dökümanı
 
 [https://developers.google.com/tag-platform/gtagjs/configure#send_data_with_event](https://developers.google.com/tag-platform/gtagjs/configure#send_data_with_event)
 
@@ -31,9 +29,8 @@ Aşağıdaki sayfalarda ve olaylada uygulamanın tetiklenmesi gerekir
 - Ödeme Sayfası
 - Sipariş Onay Sayfası
 
-
 ## İlgili Kişiler
 
-T-Soft Apps Destek Ekibi 
+T-Soft Apps Destek Ekibi
 
 T-Soft Apps Developer Ekibi
