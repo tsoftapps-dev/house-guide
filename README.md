@@ -2,7 +2,7 @@
 
 
 
-### Yazılım tarafına aktarılmadan önce kontrol edilecekler
+### Kontrol edilecekler - Önemli
 
 Uygulamada herhangi bir sorun olduğunda yazılım tarafına aktarmadan önce aşağıdakiler kontrol edilmelidir
 
