@@ -16,7 +16,7 @@ Geliştirici Dökümanı
 
 Uygulamayı Test Ederken Kullanılacak Eklenti
 
-[https://developers.google.com/tag-platform/gtagjs/configure#send_data_with_event](https://tagassistant.google.com/)
+[https://tagassistant.google.com/](https://tagassistant.google.com/)
 
 ## Test Adımları
 
