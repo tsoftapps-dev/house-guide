@@ -19,7 +19,7 @@ Uygulamayı Test Ederken Kullanılacak Eklenti
 
 ## Test adımları
 
-Facebook Pixel Helper eklentisi kurulduktan sonra [https://business.facebook.com/](https://business.facebook.com/)  hesabınıza girip olay yöneticisini açmanız gerekmektedir.
+- Facebook Pixel Helper eklentisi kurulduktan sonra [https://business.facebook.com/](https://business.facebook.com/)  hesabınıza girip olay yöneticisini açmanız gerekmektedir.
 - İlgili alanda bilginiz yoksa [https://business.facebook.com/business/help/2040882565969969?id=1205376682832142](https://business.facebook.com/business/help/2040882565969969?id=1205376682832142) linkinden detaylı bilgi alabilirsiniz.
 
 
