@@ -1,4 +1,4 @@
-# GTAG
+# g-tag
 
 ## Uygulama Bilgileri
 
