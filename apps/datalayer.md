@@ -12,17 +12,17 @@
 
 Geliştirici Dökümanı 
 
-https://developers.google.com/tag-platform/tag-manager/web/datalayer
+[https://developers.google.com/tag-platform/tag-manager/web/datalayer](https://developers.google.com/tag-platform/tag-manager/web/datalayer)
 
 Uygulamayı Test Ederken Kullanılacak Eklenti
 
-https://tagassistant.google.com/
+[https://tagassistant.google.com/](https://tagassistant.google.com/)
 
 ## Test Adımları
 
 Aşağıdaki sayfalarda ve olaylada uygulamanın tetiklenmesi gerekir
 
-https://tsoftapps.com/google-tag-datalayer#docs
+[https://tsoftapps.com/google-tag-datalayer#docs](https://tsoftapps.com/google-tag-datalayer#docs)
 
 ## İlgili Kişiler
 
