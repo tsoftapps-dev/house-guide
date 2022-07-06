@@ -4,8 +4,8 @@
 
 
 
-- T-Soft Apps Url : https://tsoftapps.com/gtag
-- Uygulama Website : https://google.com
+- T-Soft Apps Url : [https://tsoftapps.com/gtag](https://tsoftapps.com/gtag)
+- Uygulama Website : [https://google.com](https://google.com)
 - Minimum versiyon : -
 
 ## Döküman Linkleri

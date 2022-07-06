@@ -4,8 +4,8 @@
 
 
 
-- T-Soft Apps Url : https://tsoftapps.com/google-tag-datalayer
-- Uygulama Website : https://google.com
+- T-Soft Apps Url : [https://tsoftapps.com/google-tag-datalayer](https://tsoftapps.com/google-tag-datalayer)
+- Uygulama Website : [https://google.com](https://google.com)
 - Minimum versiyon : -
 
 ## Döküman Linkleri
