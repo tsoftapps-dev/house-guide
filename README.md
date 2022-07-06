@@ -1,8 +1,8 @@
-# Başlarken..
+## Başlarken..
 
 
 
-## Yazılım tarafına aktarılmadan önce kontrol edilecekler (ÇOK ÖNEMLİ !)
+### Yazılım tarafına aktarılmadan önce kontrol edilecekler
 
 Uygulamada herhangi bir sorun olduğunda yazılım tarafına aktarmadan önce aşağıdakiler kontrol edilmelidir
 
@@ -10,4 +10,3 @@ Uygulamada herhangi bir sorun olduğunda yazılım tarafına aktarmadan önce a�
 - Websitesinde uygulama kodlarını engelleyen bir js hatası var mı ? 
 - Websitesinin normal çalışmasını engelleyen durumlar var mı ? (sürüm güncel mi , sql hatası var mı ?)
 - Uygulamayı test ederken web tabanlı antivirüs veya kod engelleyici chrome eklentisi kullanıyor muyuz ? (eset web antivirüs , adblock vb)
-- 
